@@ -1,0 +1,3 @@
+At this point we see documents in the first branch  
+
+Therefore this new document will be added to the firstbranch and not to the master
